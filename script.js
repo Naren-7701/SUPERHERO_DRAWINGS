@@ -77,7 +77,7 @@ $(document).ready(function(){
       $("#nametxt").empty().append("DOCTOR STRANGE");
       $("#orgnametxt").empty().append("Dr. Stephen Strange");
       $("#chartxt").empty().append("The Sorcerer Supreme, Master of Mystic Arts Responsible to solve all Inter-dimensional Threats");
-      $("#orgtxt").empty().append("To fix his Hands from an Accident, Stephen Strange goes to Kamar Taj where he learns Mystic Arts from the Ancient One and other Sorcerers");
+      $("#orgtxt").empty().append("To fix his Hands from an Accident, Stephen Strange goes to Kamar Taj where he learned Mystic Arts from the Sorcerers");
       $("#projtxt").empty().append("<li>Doctor Strange<li>Thor Ragnarok (Cameo)<li>Avengers Infinity War<li>Avengers Endgame<li>Spider Man No Way Home<li>Doctor Strange in the Multiverse of Madness");
       $("#strtxt").empty().append("<li>Time Stone (Eariler)<li>Mystic Arts");   
       $("#nametxt").show();
@@ -208,8 +208,8 @@ $(document).ready(function(){
       $("#image").empty().append('<img src="DRAWINGS/Shazam.png" height="640px" width="360px"/>'); 
       $("#nametxt").empty().append("SHAZAM");
       $("#orgnametxt").empty().append("Billy Batson");
-      $("#chartxt").empty().append("A Teenage Boy who could turn into a Super Hero who has the Power of 6 Greek Gods, One of the Members of Justice Society");
-      $("#orgtxt").empty().append("Got the Powers from the Wizard. After saying the Magic word, Billy is struck by a bolt of lightning which transforms him into Shazam");
+      $("#chartxt").empty().append("A Teenage Boy who could turn into a Super Hero who has the Power of 6 Greek Gods. <br>One of the Members of Justice Society");
+      $("#orgtxt").empty().append("Got the Powers from the Wizard. After saying the Magic word, Billy transforms him into Shazam");
       $("#projtxt").empty().append("<li>Shazam<li> Shazam Fury of the Gods");
       $("#strtxt").empty().append("<li>Thunder and Lightning<li>Flying Ability<li>Super Speed<li>Super Strength");   
       $("#nametxt").show();
@@ -233,7 +233,7 @@ $(document).ready(function(){
       $("#nametxt").empty().append("SUPER MAN");
       $("#orgnametxt").empty().append("Kal-El");
       $("#chartxt").empty().append("The Son of Jor-El, One of the Original Founding Members in the Justice League");
-      $("#orgtxt").empty().append("Born in Krypton, when Super Man was sent to Earth, he has to realise his True Potential and Save the People of Earth from various Threats. Sun is the Main Source of his Energy.");
+      $("#orgtxt").empty().append("Born in Krypton, when Super Man was sent to Earth, he has to realise his True Potential and Save the People from various Threats. Sun is the Main Source of his Energy.");
       $("#projtxt").empty().append("<li>Man of Steel<li>Batman v/s Super Man<li>Justice League (Joss Wheden)<li>Zack Snyder Justice League<li>Black Adam (Cameo)");
       $("#strtxt").empty().append("<li>Super Strength<li>Agile and Fast<li>Laser Eyes");
       $("#nametxt").show();
@@ -257,7 +257,7 @@ $(document).ready(function(){
       $("#nametxt").empty().append("VENOM");
       $("#orgnametxt").empty().append("Eddie Brock");
       $("#chartxt").empty().append("The Lethal Protector, a Vigilante who fights Crime");
-      $("#orgtxt").empty().append("When a Space Craft with Multiple Parasites from a different Planet came to Earth, they were exposed. Venom choosed Eddie as it's Host.");
+      $("#orgtxt").empty().append("When a Space Craft with Multiple Parasites from a different Planet came to Earth, they were exposed.<br>Venom choosed Eddie as it's Host.");
       $("#projtxt").empty().append("<li>Venom<li>Venom : Let there be Carnage<li>Spider Man No Way Home (Cameo)<li>Venom 3 (Upcoming)");
       $("#strtxt").empty().append("<li>Super Strength<li>Web (Swing)<li>Wall Climb<li>Jumping and Adapting to Different Host");
       $("#nametxt").show();
