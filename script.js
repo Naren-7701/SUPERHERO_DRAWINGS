@@ -228,14 +228,14 @@ $(document).ready(function(){
       $("#image").show();
       $("#text").show();
    })
-   $("#Superman").click(function(){
-      $("#image").empty().append('<img src="DRAWINGS/SuperMan.png" height="640px" width="360px"/>'); 
-      $("#nametxt").empty().append("SUPER MAN");
-      $("#orgnametxt").empty().append("Kal-El");
-      $("#chartxt").empty().append("The Son of Jor-El, One of the Original Founding Members in the Justice League");
-      $("#orgtxt").empty().append("Born in Krypton, when Super Man was sent to Earth, he has to realise his True Potential and Save the People from various Threats. Sun is the Main Source of his Energy.");
-      $("#projtxt").empty().append("<li>Man of Steel<li>Batman v/s Super Man<li>Justice League (Joss Wheden)<li>Zack Snyder Justice League<li>Black Adam (Cameo)");
-      $("#strtxt").empty().append("<li>Super Strength<li>Agile and Fast<li>Laser Eyes");
+   $("#Kang").click(function(){
+      $("#image").empty().append('<img src="DRAWINGS/Kang.png" height="640px" width="360px"/>'); 
+      $("#nametxt").empty().append("KANG THE CONQUEROR");
+      $("#orgnametxt").empty().append("Nathaniel Richards");
+      $("#chartxt").empty().append("A Time Travel Villain from the Future, a descendent of Reed Richards, who wants to conquer Multiple Timelines.");
+      $("#orgtxt").empty().append("From 31st Century, with the advancements of Technology, he invented the Time Travel Chair, with which he can travel to Different Timelines seamlessly.");
+      $("#projtxt").empty().append("<li>Loki Season 1 (He Who Remains)<li>Antman and the Wasp Quantumania (Multiple Kangs)<li>Loki Season 2");
+      $("#strtxt").empty().append("<li>Advanced Technology<li>Time Travel Chair<li>Telekinesis and Control");
       $("#nametxt").show();
       $("#image").show();
       $("#text").show();
